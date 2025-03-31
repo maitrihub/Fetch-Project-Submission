@@ -30,16 +30,11 @@ It then:
 
 ---
 
-## 🧩 Code Structure
+## 🧩 Primary Code Structure
 
 - `MainActivity.kt` – sets up ViewBinding, fetches data, and initializes the UI
 - `ApiService.kt` – Retrofit interface for fetching data
 - `RetrofitClient.kt` – singleton providing configured Retrofit instance
-- `GroupedItem.kt` – helper data class representing grouped results
-
-**Layouts:**
-
-- `activity_main.xml` – main container layout
 
 ---
 
