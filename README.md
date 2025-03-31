@@ -1,7 +1,6 @@
 # FetchProject App
 
-Hi there, I am a **Mobile Android Engineer @ Grubhub**, ready to take on my next challenge 🚀
-
+Hi there, I am Maitri I'm a **Mobile Android Engineer @ Grubhub**, ready to take on my next challenge 🚀
 This project demonstrates a clean Kotlin Android app that loads and displays grouped data from a remote JSON API using **Retrofit**, **RxJava**, and **ViewBinding**.
 
 ---
@@ -23,7 +22,7 @@ It then:
 ## 🛠️ Tech Stack
 
 - Kotlin
-- Retrofit2 + RxJava2
+- Retrofit + RxJava
 - ViewBinding
 
 ---
@@ -43,5 +42,5 @@ It then:
 
 ## 🙌 Contact
 
-Feel free to connect or collaborate — I'm always open to cool ideas and mobile challenges!
+Feel free to email me if you have questions. Looking forward to connecting more!
 
