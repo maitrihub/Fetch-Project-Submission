@@ -38,16 +38,10 @@ It then:
 **Layouts:**
 
 - `activity_main.xml` – main container layout
-- `item_group.xml` – layout for each listId group
-- `item_child.xml` – layout for each item within a group
 
 ---
 
 ## 🙌 Contact
 
 Feel free to connect or collaborate — I'm always open to cool ideas and mobile challenges!
-
-**📧** [YourEmail@domain.com](mailto:YourEmail@domain.com)  
-**🔗** [LinkedIn / Portfolio / GitHub if desired]
-
 
