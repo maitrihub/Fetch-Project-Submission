@@ -5,6 +5,9 @@ This project demonstrates a clean Kotlin Android app that loads and displays gro
 
 ---
 
+https://github.com/user-attachments/assets/8a59de74-ce5d-4536-8872-70422483601b
+
+
 ## 📱 Overview
 
 The app fetches a list of items from: https://fetch-hiring.s3.amazonaws.com/hiring.json
@@ -27,16 +30,11 @@ It then:
 
 ---
 
-## 🧩 Code Structure
+## 🧩 Primary Code Structure
 
 - `MainActivity.kt` – sets up ViewBinding, fetches data, and initializes the UI
 - `ApiService.kt` – Retrofit interface for fetching data
 - `RetrofitClient.kt` – singleton providing configured Retrofit instance
-- `GroupedItem.kt` – helper data class representing grouped results
-
-**Layouts:**
-
-- `activity_main.xml` – main container layout
 
 ---
 
