@@ -27,7 +27,7 @@ class ParentAdapter(private val groupedItems: List<GroupedItem>) :
 
         // Setup inner RecyclerView
         holder.binding.childRecyclerView.apply {
-            layoutManager = GridLayoutManager(context, 2)
+            layoutManager = GridLayoutManager(context, 4)
             adapter = ChildAdapter(group.items)
         }
     }
