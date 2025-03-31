@@ -5,6 +5,9 @@ This project demonstrates a clean Kotlin Android app that loads and displays gro
 
 ---
 
+https://github.com/user-attachments/assets/8a59de74-ce5d-4536-8872-70422483601b
+
+
 ## 📱 Overview
 
 The app fetches a list of items from: https://fetch-hiring.s3.amazonaws.com/hiring.json
